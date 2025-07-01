@@ -1,0 +1,36 @@
+{
+  "brandDE": {
+    "light": {
+      "colors": {
+        "primaryBase": "#F36F21",
+        "secondaryBase":"#FF0000",
+        "tertiaryBase":"#9D60F4"
+      }
+    },
+    "dark": {
+      "colors": {
+        "primaryBase": "#F36F55",
+        "secondaryBase":"#FFDD88",
+        "tertiaryBase":"#9D60F4"
+
+      }
+    }
+  },
+  "brandReliant": {
+    "light": {
+      "colors": {
+        "primaryBase":"#0097D0",
+        "secondaryBase":"#333092",
+        "tertiaryBase":"#CD007A"
+
+      }
+    },
+    "dark": {
+      "colors": {
+        "primaryBase": "#19B6F1",
+        "secondaryBase":"#8197C8",
+        "tertiaryBase":"#EB2F96"
+      }
+    }
+  }
+}
